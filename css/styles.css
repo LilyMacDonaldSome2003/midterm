@@ -4,3 +4,13 @@ body {
     line-height: 1.5em;
     margin: 0%;
 }
+
+header {
+    background-color: #000;
+    text-decoration: #fff;
+}
+
+footer {
+    background-color: #000;
+    text-decoration: #fff;
+}
