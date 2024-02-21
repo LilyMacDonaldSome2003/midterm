@@ -8,11 +8,13 @@ body {
 header {
     background-color: #000;
     text-decoration: #fff;
+    text-align: center;
 }
 
 footer {
     background-color: #000;
-    text-decoration: #fff;
+    color: #fff;
+    text-align: center;
 }
 
 img {
@@ -39,4 +41,29 @@ h1 {
     text-transform: uppercase;
     font-size: .85rem;
     border-bottom: 2px solid #ff3530;
+}
+
+.author, .date {
+    font-size: .85rem;
+    margin-bottom: 0;
+}
+
+figure {
+    margin: 1.25em 0;
+}
+
+.Graphic {
+    font-size: .75rem;
+    text-align: center;
+    color: #757575;
+    font-style: italic;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+h2 {
+    font-family: sans-serif;
 }
