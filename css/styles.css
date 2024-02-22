@@ -68,3 +68,11 @@ h2 {
     font-family: sans-serif;
 }
 
+a {
+    color: #1a1a1a;
+    text-decoration: underline;
+}
+
+a:hover {
+    text-decoration: none;
+}
